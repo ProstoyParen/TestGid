@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8882bc1c-8a96-4680-89d8-2a07aa933074" name="Gid" url="http://Gid">
+        <fileTransfer port="0" mountedRoot="D:\OpenServer\domains\Gid" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
